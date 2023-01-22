@@ -1,0 +1,13 @@
+{
+    "python.languageServer": "Pylance",
+    "python.linting.pylintEnabled": true,
+    "python.analysis.typeCheckingMode": "strict",
+    "cSpell.words": [
+        "dunder",
+        "inversed",
+        "keras",
+        "relu",
+        "Softmax"
+    ],
+    "python.linting.enabled": true
+}
